@@ -1,6 +1,6 @@
 # Darden_Project
 
-This is a project on NK models lead by Michael Lenox.
+This is a project on NK models lead by Professor Michael Lenox.
 
 # Papers
 
